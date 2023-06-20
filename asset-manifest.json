@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/delicious_meals/static/css/main.885873b0.css",
+    "main.js": "/delicious_meals/static/js/main.2377683d.js",
+    "static/media/meals.jpg": "/delicious_meals/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/delicious_meals/index.html",
+    "main.885873b0.css.map": "/delicious_meals/static/css/main.885873b0.css.map",
+    "main.2377683d.js.map": "/delicious_meals/static/js/main.2377683d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.885873b0.css",
+    "static/js/main.2377683d.js"
+  ]
+}
